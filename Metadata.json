@@ -1,0 +1,20 @@
+{
+    "Author": "Cephas Lin",
+    "ContentSize": 3167,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/upload-content-files-from-asp.net-application-to-azure-blobs/master/UploadContentToAzureBlobs.ps1",
+    "DownloadCount": 1810,
+    "Id": "Upload-Content-Files-from-41c2142a",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 445,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2014-7-16T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Windows Azure Scripting Center |Get Started with Windows Azure PowerShell |Windows Azure Data Management ScriptsDescriptionUploads files from an ASP.NET application project folder (Scripts\\ and Content\\) into an Azure storage container. If the storage container doesn't exis",
+    "Title": "Upload Content Files from ASP.NET Application to Azure Blobs",
+    "UpdatedDate": "2014-7-16T00:00:00",
+    "Url": "https://github.com/azureautomation/upload-content-files-from-asp.net-application-to-azure-blobs",
+    "UserTags": "ASP.NET, Visual Studio 2013, azure storage"
+}
